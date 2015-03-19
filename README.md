@@ -2,7 +2,7 @@
 
 ###About
 
-All the 'toys' have been made with the pretty similar ray marching / distance field setup thingy that I put together from various guides around the internet. 
+All the 'toys' have been made with the pretty similar ray marching / distance field setup thingy that I put together. It has basic lighting and a bunch of functions for creating different shapes. And a function for repeating the shapes.
 
 
 ###Ray marched metaballs
