@@ -1,5 +1,10 @@
 # My-Shadertoy.com-stuff
 
+###About
+
+All the 'toys' have been made with the pretty similar ray marching / distance field setup thingy that I put together from various guides around the internet. 
+
+
 ###Ray marched metaballs
 
 ![Metaballs](http://i.gyazo.com/d26dd0d3d454beb628d17237de526a54.gif)
