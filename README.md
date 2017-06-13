@@ -9,14 +9,12 @@ All the 'toys' have been made with the pretty similar ray marching / distance fi
 
 ![Metaballs](http://i.gyazo.com/d26dd0d3d454beb628d17237de526a54.gif)
 
-#### Real-time version: https://www.shadertoy.com/view/Mtj3RR
-
-#### more gifs:
-
 ![Metaballs](http://i.gyazo.com/85f95cc7a00ab8133ef53de2aa75eeac.gif)
 
-
 ![Metaballs](http://i.gyazo.com/961ca8cc91d04ec3c1c50327f93a0dbd.gif)
+
+#### Real-time version: https://www.shadertoy.com/view/Mtj3RR
+
 
 
 ### Ray marched 'spacious thing'
